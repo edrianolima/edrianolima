@@ -54,11 +54,11 @@ Live on both stores (published under **CodeSystem Inc.**):
 
 | App | What it does | Stores |
 |-----|--------------|--------|
-| **Despesas — Expense Tracker** · ⭐ 4.0 · 50k+ downloads | Personal finance, charts & NFe scanner | [Google Play](https://play.google.com/store/apps/details?id=br.com.edrsantos.despesas) · [App Store](https://apps.apple.com/app/id6777416858) |
-| **Workpaid — Hours & Pay** | Turn worked hours into earnings | [Google Play](https://play.google.com/store/apps/details?id=com.codesystem.workpaid.app) · [App Store](https://apps.apple.com/app/id6776764496) |
-| **CineLog — Movies & TV Diary** | Track films & series you watch | [Google Play](https://play.google.com/store/apps/details?id=com.codesystem.cinelog.app) · [App Store](https://apps.apple.com/app/id6776818824) |
-| **Recover Contacts — Phonebook** · ⭐ 4.2 | Backup, SIM & lost numbers | [Google Play](https://play.google.com/store/apps/details?id=br.com.edrsantos.agendacontato) · [App Store](https://apps.apple.com/app/id6777398075) |
-| **Bullet Star — Endless Action** | Swipe, shoot, survive arcade game | [Google Play](https://play.google.com/store/apps/details?id=com.codesystem.bulletstar.game) · [App Store](https://apps.apple.com/app/id6780652906) |
+| **Despesas — Expense Tracker** · ⭐ 4.0 · 50k+ downloads | Personal finance, charts & NFe scanner | [Android](https://play.google.com/store/apps/details?id=br.com.edrsantos.despesas) · [iOS](https://apps.apple.com/app/id6777416858) |
+| **Workpaid — Hours & Pay** | Turn worked hours into earnings | [Android](https://play.google.com/store/apps/details?id=com.codesystem.workpaid.app) · [iOS](https://apps.apple.com/app/id6776764496) |
+| **CineLog — Movies & TV Diary** | Track films & series you watch | [Android](https://play.google.com/store/apps/details?id=com.codesystem.cinelog.app) · [iOS](https://apps.apple.com/app/id6776818824) |
+| **Recover Contacts — Phonebook** · ⭐ 4.2 | Backup, SIM & lost numbers | [Android](https://play.google.com/store/apps/details?id=br.com.edrsantos.agendacontato) · [iOS](https://apps.apple.com/app/id6777398075) |
+| **Bullet Star — Endless Action** | Swipe, shoot, survive arcade game | [Android](https://play.google.com/store/apps/details?id=com.codesystem.bulletstar.game) · [iOS](https://apps.apple.com/app/id6780652906) |
 
 ---
 
