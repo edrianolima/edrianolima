@@ -52,7 +52,7 @@
 
 Live on both stores (published under **CodeSystem Inc.**):
 
-| App | What it does | Stores |
+| App | What it does | Stores&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |-----|--------------|--------|
 | **Despesas — Expense Tracker** · ⭐ 4.0 · 50k+ downloads | Personal finance, charts & NFe scanner | <a href="https://play.google.com/store/apps/details?id=br.com.edrsantos.despesas"><img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="Android"/></a>&nbsp;·&nbsp;<a href="https://apps.apple.com/app/id6777416858"><img src="https://cdn.simpleicons.org/apple/A2AAAD" height="20" alt="iOS"/></a> |
 | **Workpaid — Hours & Pay** | Turn worked hours into earnings | <a href="https://play.google.com/store/apps/details?id=com.codesystem.workpaid.app"><img src="https://cdn.simpleicons.org/android/3DDC84" height="20" alt="Android"/></a>&nbsp;·&nbsp;<a href="https://apps.apple.com/app/id6776764496"><img src="https://cdn.simpleicons.org/apple/A2AAAD" height="20" alt="iOS"/></a> |
