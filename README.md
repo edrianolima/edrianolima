@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Edriano Lima</h1>
 
 <p align="center">
-  Senior Software Engineer @ <b>TIMWETECH</b> · Lisbon, Portugal 🇵🇹
+  <b>Senior Software Engineer</b> · Mobile & Full-Stack · Lisbon, Portugal 🇵🇹
 </p>
 
 <p align="center">
