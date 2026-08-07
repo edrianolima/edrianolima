@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=edrianolima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edrianolima&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=edrianolima&theme=tokyonight" alt="stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=edrianolima&theme=tokyonight" alt="top langs"/>
 </p>
 
 <p align="center">
